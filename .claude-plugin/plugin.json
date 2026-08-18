@@ -1,0 +1,13 @@
+{
+  "name": "andrej-karpathy-skills",
+  "version": "1.0.0",
+  "description": "Karpathy-inspired behavioral guidelines to reduce common LLM coding mistakes.",
+  "author": {
+    "name": "forrestchang",
+    "url": "https://x.com/jiayuan_jy"
+  },
+  "license": "MIT",
+  "skills": [
+    "./skills/karpathy-guidelines"
+  ]
+}

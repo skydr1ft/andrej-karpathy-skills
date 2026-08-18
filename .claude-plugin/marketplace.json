@@ -1,0 +1,15 @@
+{
+  "name": "karpathy-skills",
+  "owner": {
+    "name": "forrestchang",
+    "url": "https://x.com/jiayuan_jy"
+  },
+  "plugins": [
+    {
+      "name": "andrej-karpathy-skills",
+      "source": "./",
+      "description": "Karpathy-inspired behavioral guidelines to reduce common LLM coding mistakes.",
+      "version": "1.0.0"
+    }
+  ]
+}
